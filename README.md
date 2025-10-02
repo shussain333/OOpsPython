@@ -5,3 +5,4 @@
 3. [ClassConstructor.ipynb](ClassConstructor.ipynb) How to create an object of a calass
 4. [ImmutabilityInPython.ipynb](ImmutabilityInPython.ipynb) Create Immutable classes in Python
 5. [AccessClassMembersOutsideClass.ipynb](AccessClassMembersOutsideClass.ipynb) Ways to access class attributes
+6. [BuiltinClassAttributes.ipynb](BuiltinClassAttributes.ipynb) Get to know all about a class.
