@@ -6,3 +6,9 @@
 4. [ImmutabilityInPython.ipynb](ImmutabilityInPython.ipynb) Create Immutable classes in Python
 5. [AccessClassMembersOutsideClass.ipynb](AccessClassMembersOutsideClass.ipynb) Ways to access class attributes
 6. [BuiltinClassAttributes.ipynb](BuiltinClassAttributes.ipynb) Get to know all about a class.
+7. [KnowIsInstance.ipynb](KnowIsInstance.ipynb) Check instance if that is a type of class.
+8. [InstanceVariable.ipynb](InstanceVariable.ipynb) Scope of attribute in the `Instance`
+9. [WayToCreateInstanceVariable.ipynb](WayToCreateInstanceVariable.ipynb) Check ways to initialise the class.
+10. [SettersAndGetters.ipynb](SettersAndGetters.ipynb) Using instance functions, you can create variable and modify the value of a existing variable.
+11. [ClassVariable.ipynb](ClassVariable.ipynb) Check how class variable works.
+12. [Inheritance.ipynb](Inheritance.ipynb) Know single inheritance in python.
