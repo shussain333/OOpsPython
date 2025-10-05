@@ -12,3 +12,6 @@
 10. [SettersAndGetters.ipynb](SettersAndGetters.ipynb) Using instance functions, you can create variable and modify the value of a existing variable.
 11. [ClassVariable.ipynb](ClassVariable.ipynb) Check how class variable works.
 12. [Inheritance.ipynb](Inheritance.ipynb) Know single inheritance in python.
+13. [ConstructorOverriding.ipynb](ConstructorOverriding.ipynb) How constructor overriding can be done in python
+14. [SuperFunction.ipynb](SuperFunction.ipynb) How to use `super()` function.
+15. [TypesOfInheritance.ipynb](TypesOfInheritance.ipynb) Types of `Inheritance` in python
