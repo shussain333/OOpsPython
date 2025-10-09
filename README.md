@@ -15,4 +15,6 @@
 13. [ConstructorOverriding.ipynb](ConstructorOverriding.ipynb) How constructor overriding can be done in python
 14. [SuperFunction.ipynb](SuperFunction.ipynb) How to use `super()` function.
 15. [TypesOfInheritance.ipynb](TypesOfInheritance.ipynb) Types of `Inheritance` in python
-16. [OperatorOverloading.ipynb](OperatorOverloading.ipynb) Same operator behave differently in different type of data.
+16. [Encapsulation.ipynb](Encapsulation.ipynb) Encapsulation.
+17. [OperatorOverloading.ipynb](OperatorOverloading.ipynb) Same operator behave differently in different type of data.
+18. [MethodOverloading.ipynb](MethodOverloading.ipynb) Method overloading is not possible in Python. Let's see how?
